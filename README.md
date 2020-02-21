@@ -19,7 +19,7 @@ This is the engine we're going to be using. You can install it [here](https://ww
 
 2. Install GitHub for Desktop
 
-This is a desktop client for GitHub that will make it easier for you to pull/push game changes. You can install it [here](https://desktop.github.com/).
+This is a desktop client for GitHub that will make it easier for you to pull/push game changes. You can install it [here](https://desktop.github.com/). You'll also need a GitHub account to sign in with.
 
 3. Clone the project repository to your local computer
 
